@@ -1,0 +1,19 @@
+/* Main content */
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+}
+
+.demo-video h2 {
+    margin-top: rem;
+    margin-bottom: 1rem;
+}
+
+/* Demo video */
+.demo-video {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+}

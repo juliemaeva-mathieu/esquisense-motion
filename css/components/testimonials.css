@@ -1,0 +1,24 @@
+/* Testimonials */
+.testimonials {
+    width: 100%;
+    text-align: center;
+}
+
+.testimonials .testimonial {
+    margin-bottom: 1rem;
+}
+
+.testimonials .testimonial img {
+    border-radius: 50%;
+    margin-bottom: 0.5rem;
+}
+
+.testimonials blockquote {
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
+.testimonials cite {
+    font-size: 0.9rem;
+    color: #777;
+}

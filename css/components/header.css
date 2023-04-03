@@ -1,0 +1,42 @@
+/* Header */
+header { 
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    background-color: #4a4e69;
+}
+
+header img {
+    max-height: 40px;
+    margin-left: 200px;
+}
+
+header .titre {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+header nav ul {
+    display: flex;
+    margin-left: 280px;
+}
+
+header nav ul li {
+    margin-left: 1rem;
+    margin-top: 10px;
+}
+
+header nav ul li a {
+    color: #e0e0e0;
+    font-size: 1.1rem;
+    padding: 0.25rem 0.5rem;
+}
+
+header nav ul li a:hover {
+    color: #9a9a9a; /* Couleur des liens de la barre de navigation au survol */
+}

@@ -1,0 +1,23 @@
+/* Features */
+.features {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.card {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1;
+    margin: 0 0.5rem;
+    background-color: #f2e9e4;
+}
+
+.features .card img {
+    width: 50%;
+    margin-bottom: 1rem;
+}
